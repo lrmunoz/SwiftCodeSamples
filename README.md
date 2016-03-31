@@ -1,2 +1,2 @@
 # SwiftCodeSamples
-Repository to illustrate and/or experiment with Swift cool features 
+Repository to illustrate and/or experiment with cool Swift features 
